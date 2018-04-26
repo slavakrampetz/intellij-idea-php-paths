@@ -38,10 +38,10 @@ Example: [Project Structure](img/ide.modules.png)
 3. Tab 'Connection', choose 'Web server root URL'.
   [Example](img/ide.deployment-connection.png)
 4. Tab 'Mappings', setup mappings:
-  - ``/www/`` -> ``/``
-  - ``/back/core/code/`` -> ``/script/core/``
-  - ``/back/prj/code/`` -> ``/script/prj/``
-  [Example](ide.deployment-mappings.png)
+   - ``/www/`` -> ``/``
+   - ``/back/core/code/`` -> ``/script/core/``
+   - ``/back/prj/code/`` -> ``/script/prj/``
+   [Example](ide.deployment-mappings.png)
 
 That's all. Sometimes you'll need to restart IDE for it work, but in most cases it's enough.
 
